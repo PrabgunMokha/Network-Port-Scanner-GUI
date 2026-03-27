@@ -81,12 +81,4 @@ Open ports found: 2
 
 ---
 
-## 📄 License
 
-This project is for educational purposes only.
-
----
-
-## 👨‍💻 Author
-
-Developed as part of a networking/cybersecurity
